@@ -43,6 +43,11 @@ namespace ORFU21_Stas_Workshop_211021
             {
                 Console.WriteLine($"Model Name: {item.ModelName, -15} - {item.Price} SEK");
             }
+
+            Console.WriteLine("\n--------------(Dictionary Stuff)--------------\n");
+
+
+
         }
     }
 }
